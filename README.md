@@ -16,3 +16,5 @@
 
 - index.html : web home
 - welcome.html : web de benvinguda
+- proyectos.html : projectes de Silvia (fet per Max)
+- enzo.html : pàgina super duper secreta
